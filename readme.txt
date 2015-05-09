@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Chat with your website visitors, increase sales and collect feedback. Free widget with many options available.
+Chat with your website visitors, increase sales and collect feedback. Powerful plugin, free as long as you want.
 
 == Description ==
 
@@ -61,15 +61,15 @@ Web dashboard, desktop apps for Windows & Mac — we’ve got you covered. Sign 
 
 
 == Screenshots ==
-1. Beautiful look - both for visitors and operator.
+1. Beautifully designed on both visitor's and agent's sides.
 
-2. Simple and native interface.
+2. Clean and easy to learn.
 
-3. Show you everything you want to know about your visitor.
+3. Shows you everything you want to know about your visitors.
 
-4. Fully customisable - texts, colors - you can change everything.
+4. Fully customizable: pick a look to match your website design.
 
-5. Made for humans by humans :)
+5. By humans for humans :)
 
 == Changelog ==
 
