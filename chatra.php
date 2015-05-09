@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Chatra live chat
+ * Plugin Name: Chatra live chat software
  * Description: With Chatra free livechat you can chat with visitors on your website to increase conversion and sales 
  * Author: Chatra
  * Version: 1.0.0
