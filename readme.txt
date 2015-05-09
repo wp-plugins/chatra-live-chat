@@ -61,7 +61,15 @@ Web dashboard, desktop apps for Windows & Mac — we’ve got you covered. Sign 
 
 
 == Screenshots ==
+1. Beautiful look - both for visitors and operator.
 
+2. Simple and native interface.
+
+3. Show you everything you want to know about your visitor.
+
+4. Fully customisable - texts, colors - you can change everything.
+
+5. Made for humans by humans :)
 
 == Changelog ==
 
