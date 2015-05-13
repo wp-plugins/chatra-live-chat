@@ -75,6 +75,9 @@ Web dashboard, desktop apps for Windows & Mac — we’ve got you covered. Sign 
 
 = 1.0 =
 * Welcome our very first version of the plugin!
+= 1.0.1 =
+* Minor fixes & updates.
+
 
 == Upgrade Notice ==
 

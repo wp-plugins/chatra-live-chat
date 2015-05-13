@@ -3,7 +3,7 @@
  * Plugin Name: Chatra live chat software
  * Description: With Chatra free livechat you can chat with visitors on your website to increase conversion and sales 
  * Author: Chatra
- * Version: 1.0.0
+ * Version: 1.0.1
  */
 
 // Add multilingual support
@@ -25,9 +25,9 @@ function chatra_settings() {
   if (get_option('chatra-code')) {
     echo "<p>" . __( 'Seems like everything is OK!<br>
 Check your <a href="', 'chatra') . home_url() . __('">website</a> to see if the live chat widget is present.<br>
-Log in to your <a href="http://app.chatra.io">Chatra dashboard</a> to chat with your website visitors and manage preferences.<br>', 'chatra');
+Log in to your <a href="https://app.chatra.io" target="_blank">Chatra dashboard</a> to chat with your website visitors and manage preferences.<br>', 'chatra');
   } else {
-    echo "<p>" . __( 'Signup for a free Chatra account at <a href="http://app.chatra.io">app.chatra.io</a>,<br> then copy and paste Widget code from Setup & Customize section into the form below:
+    echo "<p>" . __( 'Signup for a free Chatra account at <a href="https://app.chatra.io" target="_blank">app.chatra.io</a>,<br> then copy and paste Widget code from Setup & Customize section into the form below:
 ', 'chatra' ) . "</p>";
   }
 
