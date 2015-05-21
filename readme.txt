@@ -51,6 +51,7 @@ Web dashboard, desktop apps for Windows & Mac — we’ve got you covered. Sign 
 * Download and install the agent's app on your computer or mobile, or use our browser-based app
 
 
+
 == Frequently Asked Questions ==
 
 = A question that someone might have =
@@ -77,6 +78,9 @@ Web dashboard, desktop apps for Windows & Mac — we’ve got you covered. Sign 
 * Welcome our very first version of the plugin!
 = 1.0.1 =
 * Minor fixes & updates.
+= 1.0.2 =
+* Minor fixes & updates.
+* New screenshots & video
 
 
 == Upgrade Notice ==
